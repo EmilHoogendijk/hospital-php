@@ -1,0 +1,1 @@
+<form action="<?= URL ?>clients/delete" method="post">

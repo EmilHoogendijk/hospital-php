@@ -1,0 +1,1 @@
+<form action="<?= URL ?>species/delete" method="post">

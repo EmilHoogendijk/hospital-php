@@ -1,0 +1,1 @@
+<form action="<?= URL ?>hospital/delete" method="post">
